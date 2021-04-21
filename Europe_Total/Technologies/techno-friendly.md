@@ -1,0 +1,15 @@
+ - Efficiencies higher than 100%:
+  - X\_Electrolysis
+  - X\_Methanation
+  - HLR\_Biomass 
+  - HLR\_Direct\_Electric 
+  - HLI\_Biomass
+  - HLI\_Direct\_Electric
+  - HMI\_H2
+  - HMI\_Steam\_Electric
+  - HLR\_H2\_Boiler
+  - HLI\_H2\_Boiler
+  - Z\_ETS\_Buy
+  - Z\_ETS\_Sell
+  - HLR\_H2\_Boiler
+  - HLI\_H2\_Boiler
